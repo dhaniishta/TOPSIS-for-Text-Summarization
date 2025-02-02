@@ -53,7 +53,7 @@ Based on the TOPSIS analysis, the models were ranked as follows:
 
 Below is a bar chart representing the TOPSIS scores for each model:
 
-![TOPSIS Ranking](topsis_ranking_graph.png)
+![TOPSIS Ranking](topsis_ranking.png)
 
 ## Conclusion
 
